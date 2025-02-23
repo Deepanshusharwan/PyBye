@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10a296a6-0ca0-4515-9457-3fd8a6e8f616" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pybye.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pybye.py" afterDir="false" />
-    </list>
+    <list default="true" id="10a296a6-0ca0-4515-9457-3fd8a6e8f616" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +70,7 @@
       <workItem from="1740202938459" duration="1484000" />
       <workItem from="1740204432273" duration="15652000" />
       <workItem from="1740323973976" duration="1358000" />
-      <workItem from="1740325340628" duration="311000" />
+      <workItem from="1740325340628" duration="774000" />
     </task>
     <servers />
   </component>

@@ -48,7 +48,7 @@ pip -V
 ```
 * Now install all the dependencies through pip by the following method
 ```sh
-pip install -r requirements.tx
+pip install -r requirements.txt
 ```
 
 ### Clone the Repository

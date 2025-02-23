@@ -1,0 +1,6 @@
+pycairo ==         1.27.0
+PyGObject ==       3.50.0
+PyGObject-stubs == 2.12.0
+PyQt6 ==           6.8.1
+PyQt6-Qt6 ==       6.8.2
+PyQt6_sip ==       13.10.0

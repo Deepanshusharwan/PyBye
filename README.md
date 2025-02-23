@@ -1,6 +1,8 @@
 # PyBye
 PyBye: a Linux power management tool with a GTK-based GUI, enabling users to shutdown, reboot, suspend, lock, log out, or hibernate with ease. It supports custom commands, error handling, and dynamic theming, providing a user-friendly alternative to terminal-based system controls.
 
+![Pybye_screenshot1.png](screenshots/Pybye_screenshot.png)
+
 ## Features
 - Shutdown, reboot, suspend, lock, log out, or hibernate with a single click.
 - Configurable commands, icons, and UI elements via a configuration file.
